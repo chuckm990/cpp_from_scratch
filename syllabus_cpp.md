@@ -1,10 +1,3 @@
-# cpp_from_scratch
-My journey in learning C++
-
-My name is Carlos, a python user, and in this brief journey, I am planning on tackling the task of learning a low-level programming language. I have chosen C++, because of several reviews and some chats with colleagues about this language, its framework, capabilities and potential. I will be following the book on B. Stroustrup, and I expect to be updating content on this github repo weekly.
-
-This is the syllabus, which I have made using AI, and used as a general guideline:
-
 ### Learning Plan Overview
 
 #### **Months 1-2: Fundamentals**
@@ -94,7 +87,7 @@ This is the syllabus, which I have made using AI, and used as a general guidelin
 * *   **Join Communities**: Engage with C++ communities and forums (like Stack Overflow or Reddit’s r/cpp) to ask questions and learn from others.
 * *   **Build Projects**: Apply what you learn by working on small projects, which will reinforce your understanding and give you practical experience.
 
-=========================================================================================================================================================
+Good luck on your journey to learning C++! You have a solid foundation to build upon, and with dedication, you'll achieve your goal.
 
 ### Detailed 6-Month Learning Plan
 
